@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: sui-life-design
+    runtime: static
+    staticPublishPath: ./public
+    routes:
+      - type: rewrite
+        source: /
+        destination: /index.html
