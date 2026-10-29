@@ -67,3 +67,4 @@ Sitesの認証情報・Git管理情報・ホスティングIDは同梱してい�
 
 - URL: https://sui-life-design.onrender.com
 - main ブランチへの push で自動デプロイ（公開ディレクトリ: public）
+- Render サービスID: srv-dbhdh50m7kps73eka380
