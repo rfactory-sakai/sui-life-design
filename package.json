@@ -1,0 +1,8 @@
+{
+  "name": "sui-frontend-handoff",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SUI frontend design and responsive comparison board",
+  "scripts": {"start": "node server.cjs", "check": "node scripts/check.cjs"},
+  "engines": {"node": ">=18"}
+}
